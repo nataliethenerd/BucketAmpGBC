@@ -4,9 +4,9 @@ Bucket Mouse's sound amplifier from the MGBC adapted to the stock GBC
 
 Big shout out to the Mouse for all he does for the community, bless that damn Mouse.
 
-![boardpic](https://github.com/nataliethenerd/CGB_ReverseEngineer/blob/main/Image_20240127_0002.png)
+![boardpic](https://github.com/nataliethenerd/BucketAmpGBC/blob/bb180ee2569c5ed909c90b533fb1ba9f898e72d8/assets/boardrender.png)
 
-[interactive BOM](https://nataliethenerd.github.io/bucketamp.html)
+[Interactive BOM](https://nataliethenerd.github.io/bucketamp.html)
 
 # License
 
