@@ -8,6 +8,16 @@ Bucket Mouse's sound amplifier from the MGBC adapted to the stock GBC
 Big shout out to the Mouse for all he does for the community
 ![bless that damn Mouse](https://github.com/nataliethenerd/BucketAmpGBC/blob/eb69a9bb9b7d4a9bfe83ef855884798c09133e5d/assets/blesshim.png)
 
+# Install Guide
+NOTE: You are responsible if you f*ck it up. This board requires microsoldering.
+This board isn't compatible with CPU 05 and CPU 06 boards. It is made to work with boards that have EM2,3,4 
+
+Remove the following parts
+![remove](https://github.com/nataliethenerd/BucketAmpGBC/blob/2967305a812a3a441b86ddac4ee31bde810b72cc/assets/thingstoremove.png)
+
+Install the board, soldering to the points it aligns to
+![install](https://github.com/nataliethenerd/BucketAmpGBC/blob/2967305a812a3a441b86ddac4ee31bde810b72cc/assets/install.png)
+
 # IBOM
 [Interactive BOM](https://nataliethenerd.github.io/bucketamp.html)
 
