@@ -20,6 +20,8 @@ This board isn't compatible with CPU 05 and CPU 06 boards. It is made to work wi
 
 ![install](https://github.com/nataliethenerd/BucketAmpGBC/blob/2967305a812a3a441b86ddac4ee31bde810b72cc/assets/install.png)
 
+EDIT: Make sure you bridge EM5 or just leave the filter there
+
 # IBOM
 [Interactive BOM](https://nataliethenerd.github.io/bucketamp.html)
 
