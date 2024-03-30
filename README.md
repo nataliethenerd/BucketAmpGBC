@@ -1,7 +1,7 @@
 # Bucket Amp GBC
 Bucket Mouse's sound amplifier from the MGBC adapted to the stock GBC. This mod replaces the original MGB AMP for better sound rather than add a boost to a dated design.
 
-
+https://github.com/nataliethenerd/BucketAmpGBC/assets/79350460/41e56f40-1b0b-4fa3-a8b6-7ec9b8e17398
 
 [Link to Bucket Mouse's MGBC](https://github.com/MouseBiteLabs/Game-Boy-Pocket-Color)
 
