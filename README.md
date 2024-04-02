@@ -1,12 +1,18 @@
 # Bucket Amp GBC
-Bucket Mouse's sound amplifier from the MGBC adapted to the stock GBC
+Bucket Mouse's sound amplifier from the MGBC adapted to the stock GBC. This mod replaces the original MGB AMP for better sound rather than add a boost to a dated design.
+
+
+
+https://github.com/nataliethenerd/BucketAmpGBC/assets/79350460/d46e8511-f09c-46b8-b7a3-caf3a5da3c0e
+
+
 
 [Link to Bucket Mouse's MGBC](https://github.com/MouseBiteLabs/Game-Boy-Pocket-Color)
 
 ![boardpic](https://github.com/nataliethenerd/BucketAmpGBC/blob/bb180ee2569c5ed909c90b533fb1ba9f898e72d8/assets/boardrender.png)
 
 Big shout out to the Mouse for all he does for the community
-![bless that damn Mouse](https://github.com/nataliethenerd/BucketAmpGBC/blob/eb69a9bb9b7d4a9bfe83ef855884798c09133e5d/assets/blesshim.png)
+![bless that damn Mouse](https://github.com/nataliethenerd/BucketAmpGBC/blob/fee6840abdf5c8f2eb51dc8cb9f447cd14d5d62a/assets/blesshim.png)
 
 # Install Guide
 NOTE: You are responsible if you f*ck it up. This board requires microsoldering.
@@ -19,6 +25,8 @@ This board isn't compatible with CPU 05 and CPU 06 boards. It is made to work wi
 **Install the board, soldering to the points it aligns to**
 
 ![install](https://github.com/nataliethenerd/BucketAmpGBC/blob/2967305a812a3a441b86ddac4ee31bde810b72cc/assets/install.png)
+
+EDIT: Make sure you bridge EM5 or just leave the filter there
 
 # IBOM
 [Interactive BOM](https://nataliethenerd.github.io/bucketamp.html)
