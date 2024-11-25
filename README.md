@@ -28,6 +28,15 @@ This board isn't compatible with CPU 05 and CPU 06 boards. It is made to work wi
 
 EDIT: Make sure you bridge EM5 or just leave the filter there
 
+**Update** if you have purchased this from me, you will need to add a bodge wire due to a board fab error. 
+
+![Screenshot 2024-11-26 013753](https://github.com/user-attachments/assets/9e6abbf5-5863-4057-aef6-20a3ed5bab3a)
+
+The board files here are correct.
+
+
+
+
 # IBOM
 [Interactive BOM](https://nataliethenerd.github.io/bucketamp.html)
 
