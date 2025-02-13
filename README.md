@@ -15,7 +15,9 @@ Big shout out to the Mouse for all he does for the community
 ![bless that damn Mouse](https://github.com/nataliethenerd/BucketAmpGBC/blob/fee6840abdf5c8f2eb51dc8cb9f447cd14d5d62a/assets/blesshim.png)
 
 # Install Guide
-NOTE: You are responsible if you f*ck it up. This board requires microsoldering.
+
+## NOTE: You are responsible if you f*ck it up. This board requires micro soldering and understanding what you are doing ##
+
 This board isn't compatible with CPU 05 and CPU 06 boards. It is made to work with boards that have EM2,3,4 
 
 **Remove the following parts**
